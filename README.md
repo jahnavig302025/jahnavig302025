@@ -1,5 +1,3 @@
-# 🚀 **Jahnavi Gottipati** *(she/her)*
-
 ## 🚀 Machine Learning Engineer | AI & Cloud Enthusiast
 
 👋 **Welcome to My GitHub!**
@@ -44,6 +42,30 @@
 - ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python)
+
+---
+
+## 🚀 **Projects**
+
+### 🏥 **Diabetic Retinopathy Detection**
+- Built a **deep learning model using ResNet** for early-stage diabetic retinopathy detection.
+- Utilized **TensorFlow and OpenCV** to process medical images.
+- Achieved **92% accuracy**, improving diagnostic efficiency for ophthalmologists.
+
+### 🎨 **AI-Powered Text-to-Animation Generator**
+- Developed an **AI-based animation tool** leveraging **VQGAN + CLIP**.
+- Enables users to generate **dynamic visuals from text descriptions**.
+- Integrated **GAN-based transformations** to enhance artistic outputs.
+
+### 🔍 **Real-Time Fraud Detection System**
+- Designed a **real-time fraud detection system** using **Graph Neural Networks**.
+- Implemented **Apache Kafka** for **real-time stream processing**.
+- Reduced fraudulent transactions by **30%**, improving financial security.
+
+### 🛍 **E-commerce Personalized Recommendation System**
+- Developed a **personalized product recommendation engine**.
+- Implemented **collaborative filtering and reinforcement learning techniques**.
+- Improved **click-through rate by 22%**, boosting user engagement.
 
 ---
 
