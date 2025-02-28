@@ -79,8 +79,9 @@
 
 ## 🌟 **Let's Connect!** 🌐
 📫 **Email:** [jahnavig302025@gmail.com](mailto:jahnavig302025@gmail.com)  
-🔗 **LinkedIn:** [Jahnavi Gottipati](https://linkedin.com/in/jahnavi-gottipati-6b5122207)  
-🏆 **GitHub:** [Jahnavi's GitHub](https://github.com/jahnavig3005)  
+🔗 **LinkedIn:** [Jahnavi Gottipati]((https://www.linkedin.com/in/jahnavi-g-a124bb353/)   
+🏆 **GitHub:** [Jahnavi's GitHub](https://github.com/jahnavig302025
+)  
 
 ---
 
