@@ -1,83 +1,53 @@
 # 🚀 **Jahnavi Gottipati** *(she/her)*
 
-![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile!)
+## 🚀 Machine Learning Engineer | AI & Cloud Enthusiast
 
-## **Machine Learning Engineer | AI & Cloud Enthusiast | Big Data | MLOps | Software Development**
+👋 **Welcome to My GitHub!**
 
-📍 **USA, TX**  
-📧 [jahnavig302025@gmail.com](mailto:jahnavig302025@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-g-a124bb353/) | 🏆 [GitHub](https://github.com/jahnavig302025)  
-📞 +1 (469) 790-0763
-
----
-
-## 👋 **Welcome to My GitHub!**
-
-💡 Passionate about **Machine Learning, AI, Cloud Computing, and Data Science** 🌐  
-🔬 Specializing in **Large Language Models (LLMs), Deep Learning, Computer Vision, and Big Data Analytics** 🧠  
-☁️ Experienced in **AWS, GCP, Azure, MLOps, Kubernetes, and Docker** ☁️  
-🎯 Enthusiastic about building **Scalable AI Systems, Predictive Models, and Data-driven Decision Making**
-📚 Active **Tech Speaker, Blogger, and Mentor**, sharing insights on AI, ML, and Cloud Technologies.
+### 👩‍💻 **About Me:**
+💡 Passionate about **Machine Learning, AI, and Cloud Computing** 🌐  
+🔬 Specializing in **LLMs, Deep Learning, and Big Data** 🧠  
+☁️ Experienced in **AWS, GCP, MLOps, Kubernetes, and Docker** ☁️
 
 ---
 
-## 🛠 **Tech Stack & Expertise** 🛠
+## 🛠 **Tech Stack** 🛠
 
 ### 🤖 **Machine Learning & AI**
-- Supervised & Unsupervised Learning
-- Deep Learning (CNNs, RNNs, Transformers, GANs)
-- NLP (BERT, GPT-4, spaCy, NLTK)
-- Computer Vision (YOLO, OpenCV, FastAI)
-- Reinforcement Learning (Deep Q-Networks, Policy Gradient Methods)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikitlearn)
+- ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
 
-### 📊 **Data Engineering & Big Data**
-- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
-- **Big Data Tools:** Apache Spark, Hadoop, Databricks
-- **ETL Pipelines:** Snowflake, AWS Glue, Google BigQuery
-- **Data Streaming:** Apache Kafka, Apache Flink
+### 📊 **Data Engineering**
+- ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+- ![Snowflake](https://img.shields.io/badge/Snowflake-lightblue?style=for-the-badge&logo=snowflake)
+- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red?style=for-the-badge&logo=apachespark)
 
 ### ☁️ **Cloud & DevOps**
-- **Cloud Services:** AWS (EC2, S3, SageMaker), GCP (Vertex AI, BigQuery), Azure (ML Studio, Functions)
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **CI/CD & MLOps:** MLflow, Kubeflow, Airflow, Jenkins, Docker, Kubernetes
+- ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+- ![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+- ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+- ![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
 
-### 💻 **Software Development**
-- **Backend:** Flask, FastAPI, Node.js, GraphQL, Django
-- **Frontend:** React.js, Angular, Tailwind CSS
-- **Programming Languages:** Python, JavaScript, C++, R, Scala
+### 💻 **Web Development**
+- ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+- ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+- ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql)
+- ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 
 ### 📈 **Analytics & Visualization**
-- **BI Tools:** Tableau, Power BI, Looker, SAP Business Objects
-- **Statistical Analysis:** Matplotlib, Seaborn, Plotly, ggplot2
-- **A/B Testing & Experimentation**
+- ![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau)
+- ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python)
 
 ---
 
-## 🏆 **Notable Projects**
-
-### 🚀 **AI-Powered Image Generation**
-- Developed a state-of-the-art image generation model using **GANs and Stable Diffusion**.
-- Integrated **Text-to-Image translation** for generating realistic AI images.
-- Optimized inference time by **40%** using **TensorFlow Lite**.
-
-### 🔍 **Real-Time Fraud Detection System**
-- Built **Fraud Detection Models** using Graph Neural Networks (GNNs) and Anomaly Detection.
-- Implemented **real-time streaming pipelines** with Apache Kafka, reducing fraud detection latency to **<150ms**.
-- Achieved **30% reduction** in fraudulent transactions using ensemble learning techniques.
-
-### 🛍 **Personalized Recommendation Engine for E-Commerce**
-- Designed **Deep Reinforcement Learning-based Ranking Models** for e-commerce platforms.
-- Enhanced **click-through rate (CTR) by 22%** and **cross-sell conversions by 18%**.
-- Scaled system using **BigQuery and GCP AutoML**, processing **10M+ users' behavior data**.
-
-### 🏥 **Healthcare Predictive Analytics**
-- Developed AI-powered **Diabetic Retinopathy Detection System** using **ResNet & EfficientNet**.
-- Integrated Explainable AI (XAI) with **SHAP and LIME** for transparent healthcare decisions.
-- Deployed model on **AWS SageMaker**, achieving **92% accuracy in real-world test cases**.
-
----
-
-## 📊 **GitHub Stats & Contributions** 📊
+## 📊 **GitHub Stats** 📊
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnavig3005&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnavig3005&show_icons=true&theme=radical)  
@@ -85,26 +55,10 @@
 
 ---
 
-## 🎓 **Education & Certifications**
-
-🎓 **MS in Data Science** | *University of North Texas (Aug 2023 - Dec 2024)*  
-🎓 **BTech in Computer Science** | *Koneru Lakshmaiah University (May 2014 - May 2017)*
-
-📜 **Certifications:**
-- ✅ **AWS Certified Cloud Practitioner**
-- ✅ **Machine Learning with Python (IBM)**
-- ✅ **SQL (Advanced) Certification**
-- ✅ **NLP: Twitter Sentiment Analysis**
-- ✅ **Responsive Web Development (HTML, CSS, JavaScript)**
-
----
-
 ## 🌟 **Let's Connect!** 🌐
-
 📫 **Email:** [jahnavig302025@gmail.com](mailto:jahnavig302025@gmail.com)  
-🔗 **LinkedIn:** [Jahnavi Gottipati](https://www.linkedin.com/in/jahnavi-g-a124bb353/)  
-🏆 **GitHub:** [Jahnavi's GitHub](https://github.com/jahnavig302025)  
-📖 **Portfolio:** *Coming Soon*
+🔗 **LinkedIn:** [Jahnavi Gottipati](https://linkedin.com/in/jahnavi-gottipati-6b5122207)  
+🏆 **GitHub:** [Jahnavi's GitHub](https://github.com/jahnavig3005)  
 
 ---
 
